@@ -1,0 +1,40 @@
+.tx-yagooglesearch-pi1-searchContent {
+	margin-top: 12px;
+	margin-bottom: 12px;
+	font-size: 12px;
+	}
+
+.tx-yagooglesearch-pi1-resultInfo {
+	font-size: 14px;
+	}
+
+.tx-yagooglesearch-pi1-title {	
+	font-size: 14px;
+	}
+
+.tx-yagooglesearch-pi1-url {	
+	color: #336600;
+	}
+
+.tx-yagooglesearch-pi1-pageLinks {
+	font-size: 14px;
+	text-align: center;
+	}
+
+.tx-yagooglesearch-pi1-pageLinks img{
+        width: 16px;
+        height: auto;
+        }
+	
+.tx-yagooglesearch-pi1-branding {
+	font-size: smaller;
+	text-align: center;
+	}
+
+.tx-yagooglesearch-pi1-branding img{
+        vertical-align: bottom;
+        }
+
+.tx-yagooglesearch-pi1-noResults {	
+	font-weight: bold;
+	}

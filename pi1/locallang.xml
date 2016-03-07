@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for plugin &quot;tx_ajaxgooglesearch_pi1&quot;</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="submit">Search</label>
+			<label index="results">Results</label>
+			<label index="forward">Forward</label>
+			<label index="backward">Backward</label>
+			<label index="of_approx">of approximately</label>
+			<label index="no_result">Your request gave no results!</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="submit">Suchen</label>
+			<label index="results">Ergebnisse</label>
+			<label index="forward">Vor</label>
+			<label index="backward">Zurück</label>
+			<label index="of_approx">von ungefähr</label>
+			<label index="no_result">Ihre Anfrage ergab keine Treffer!</label>
+		</languageKey>
+	</data>
+</T3locallang>

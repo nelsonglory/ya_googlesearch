@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for extension 'ya_googlesearch'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="pi1_title">Google search</label>
+			<label index="pi1_plus_wiz_description">Adds a Google search field to the page</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="pi1_title">Google Suche</label>
+			<label index="pi1_plus_wiz_description">Fügt ein Google Suchfeld auf die Seite ein</label>
+		</languageKey>
+	</data>
+</T3locallang>
